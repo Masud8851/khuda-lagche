@@ -1,0 +1,19 @@
+.brand{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a:hover{
+    color: black;
+}
+
+#navigration{
+    background-color: rgb(127, 184, 81);
+}
