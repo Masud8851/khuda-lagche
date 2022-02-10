@@ -2,8 +2,8 @@ import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import Contact from "./Pages/Contact/Contact";
-import Services from "./Pages/Services/Services";
 import NavBar from "./Components/NavBar/NavBar";
+import Menus from "./Pages/Menus/Menus";
 
 function App() {
 	return (
@@ -20,7 +20,7 @@ function App() {
 					<Route path="/contact" element={<Contact />}>
 						{" "}
 					</Route>
-					<Route path="/services" element={<Services />}>
+					<Route path="/menus" element={<Menus />}>
 						{" "}
 					</Route>
 				</Routes>
