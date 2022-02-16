@@ -1,12 +1,15 @@
 .navbar {
     background: transparent;
     padding: 14px 0 !important;
-    transition: .3s;}
-    .logo {
-       font-family: 'Pacifico', cursive;
-       color: #fff;
-       font-size: 32px;
-       font-weight: normal !important;}
+    transition: .3s;
+}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+    font-size: 32px;
+    font-weight: normal !important;
+}
        span {
           color: #fe9d3e;
        }
