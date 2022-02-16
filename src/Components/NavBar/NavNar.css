@@ -59,8 +59,7 @@ span {
         text-align: center;
      }
      
-          .navbar-nav 
-             .nav-item {
+     .navbar-nav .nav-item {
                 text-align: center;
                 margin: 15px 0;
              }
