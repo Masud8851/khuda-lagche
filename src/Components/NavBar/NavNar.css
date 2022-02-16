@@ -23,16 +23,19 @@ span {
        padding-top: 10px;
 }
     
-    .navbar-nav {
+.navbar-nav {
        margin-left: auto;
-       align-items: center;}
+       align-items: center;
+}
        
-          .link {
-             color: #fff;
-             text-decoration: none;
-             text-transform: uppercase;
-             margin: 0 25px;
-             transition: .4s;}
+.link {
+       color: #fff;
+       text-decoration: none;
+       text-transform: uppercase;
+       margin: 0 25px;
+       transition: .4s;
+}
+
              .link:hover {
                 color: #fe9d3e;
              }
