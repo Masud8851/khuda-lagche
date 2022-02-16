@@ -10,17 +10,18 @@
     font-size: 32px;
     font-weight: normal !important;
 }
-       span {
-          color: #fe9d3e;
-       }
+
+span {
+     color: #fe9d3e;
+}
     
-    .navbar-toggler {
-          
-          box-shadow: 0 0 0 0rem !important;
-       }
-       .hamburger {      
-          padding-top: 10px;
-       }
+.navbar-toggler {
+      box-shadow: 0 0 0 0rem !important;
+}
+
+.hamburger {      
+       padding-top: 10px;
+}
     
     .navbar-nav {
        margin-left: auto;
