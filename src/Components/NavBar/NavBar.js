@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import "./NavNar.css";
 import humburger from "../../images/menu/menu-2.png";
 
-
 const NavBar = () => {
 	function changeCss() {
 		const element = document.getElementById("navigration");
